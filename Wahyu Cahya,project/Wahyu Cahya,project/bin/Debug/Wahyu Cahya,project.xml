@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Wahyu Cahya,project
+</name>
+</assembly>
+<members>
+<member name="T:Wahyu_Cahya_project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Wahyu_Cahya_project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Wahyu_Cahya_project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Wahyu_Cahya_project.My.Resources.Resources._66723565_f121dd44_99b0_4081_8ab5_9285c08d57d4_990_595">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wahyu_Cahya_project.My.Resources.Resources._728_7289234_thumb_image_logo_racing_keren_png_transparent_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wahyu_Cahya_project.My.Resources.Resources.WhatsApp_Image_2022_09_07_at_18_10_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

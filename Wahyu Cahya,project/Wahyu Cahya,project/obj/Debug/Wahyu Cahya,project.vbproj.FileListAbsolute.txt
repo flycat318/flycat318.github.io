@@ -1,0 +1,12 @@
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\bin\Debug\Wahyu Cahya,project.exe.config
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\bin\Debug\Wahyu Cahya,project.exe
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\bin\Debug\Wahyu Cahya,project.pdb
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\bin\Debug\Wahyu Cahya,project.xml
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.vbproj.AssemblyReference.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu_Cahya_project.Resources.resources
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.vbproj.GenerateResource.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.vbproj.CoreCompileInputs.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.exe
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.xml
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu Cahya,project.pdb
+C:\Users\Lab-Pemprograman-WEB\Documents\Wahyu cahya,project\Wahyu Cahya,project\Wahyu Cahya,project\obj\Debug\Wahyu_Cahya_project.Form1.resources
